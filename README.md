@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm CJ</h1>
 <h3 align="center">A young passionate developer from Melbourne, Australia!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=limitedink&label=Profile%20views&color=ff69b4style=flat" alt="limitedink" /> </p>
+
 - 👨‍💻 All of my projects are available [here](https://github.com/limitedink?tab=repositories)
 <!--
 **limitedink/limitedink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +10,10 @@
 
 - 🔭 I’m currently working on The Odin Project (Full-stack Javascript Path)
 - 🌱 I’m currently learning **C++, JS, HTML, CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
+
+## Bird App 🐦
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ## Interested in 👀
 
