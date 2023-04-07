@@ -118,7 +118,7 @@
 
 ### Connect with me 🤝
 
-  <p align="left"> <a href="https://twitter.com/lilcxxj" target="blank"><img src="https://img.shields.io/twitter/follow/lilcxxjtw?logo=twitter&style=for-the-badge" alt="lilcxxj" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/lilcxxj" target="blank"><img src="https://img.shields.io/twitter/follow/lilcxxj?logo=twitter&style=for-the-badge" alt="lilcxxj" /></a> </p>
 
 ### 📈 GitHub Stats
 
