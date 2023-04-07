@@ -8,8 +8,8 @@
 **limitedink/limitedink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on The Odin Project (Full-stack Javascript Path)
-- 🌱 I’m currently learning **C++, JS, HTML, CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
+- 🔭 I’m currently working on [The Odin Project](https://theodinproject.com) (Full-Stack JavaScript Path)
+- 🌱 I’m currently learning **C++, JS/TS, HTML/CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
 
 ## My Bird App 🐦
 
