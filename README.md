@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on The Odin Project (Full-stack Javascript Path)
 - 🌱 I’m currently learning **C++, JS, HTML, CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
 
-## Bird App 🐦
+## My Bird App 🐦
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lilcxxj)
 
@@ -115,6 +115,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+
+### Connect with me 🤝
+
+  <p align="left"> <a href="https://twitter.com/lilcxxj" target="blank"><img src="https://img.shields.io/twitter/follow/lilcxxjtw?logo=twitter&style=for-the-badge" alt="lilcxxj" /></a> </p>
 
 ### 📈 GitHub Stats
 
