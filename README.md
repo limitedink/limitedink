@@ -123,10 +123,10 @@
 ### 📈 GitHub Stats
 
 <a href="https://github.com/limitedink">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitedink&theme=vision-friendly-dark&langs_count=7&layout=compact&theme=midnight-purple" alt="Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitedink&langs_count=7&layout=compact&theme=midnight-purple" alt="Most Used Languages" />
 </a>
 <a href="https://github.com/limitedink">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=limitedink&show_icons=true&theme=vision-friendly-dark&count_private=true&theme=midnight-purple" alt="Limitedink's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=limitedink&show_icons=true&count_private=true&theme=midnight-purple" alt="Limitedink's GitHub Stats" />
 </a>
 
 <hr />
