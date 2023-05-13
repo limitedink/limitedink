@@ -130,7 +130,7 @@
   -->
 
 ### Connect with me 🤝
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/christopher-james-santiago-limitedink/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-james-santiago-limitedink/)
   <p align="left"> <a href="https://twitter.com/lilcxxj" target="blank"><img src="https://img.shields.io/twitter/follow/lilcxxj?logo=twitter&style=for-the-badge" alt="lilcxxj" /></a> </p>
 
 ### 📈 GitHub Stats
