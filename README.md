@@ -148,4 +148,4 @@
 
 ### 🤝 Collaboration
 
-Feel free to hit me up on discord (cj#2967) or email me at [realcxxj@gmail.com](mailto:realcxxj@gmail.com) if you want to work on a project together.
+Feel free to hit me up on discord (cj#2967) or email me at [santiagochristopherjames1@gmail.com](mailto:santiagochristopherjames1@gmail.com) if you want to work on a project together.
