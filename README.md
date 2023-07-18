@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CJ</h1>
-<h3 align="center">A young passionate developer from Melbourne, Australia!</h3>
+<h3 align="center">A young 25-year-old passionate developer from Melbourne, Australia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limitedink&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="limitedink" /> </p>
 
