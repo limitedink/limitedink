@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on [The Odin Project](https://theodinproject.com) (Full-Stack JavaScript Path)
 - 🌱 I’m currently learning **C++, JS/TS, HTML/CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
 
+- 👨🏻‍💻 My favourite coding fonts/terminal fonts/nerd fonts: Fira Code, SF Mono, JetBrains Mono/JetBrains Nerd Font, Cascadia Code/Caskaydia Cove, Hack and SauceCodePro. All with Ligatures on of course ;)
 ## My Bird App 🐦
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lilcxxj)
