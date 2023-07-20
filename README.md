@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning **C++, JS/TS, HTML/CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
 
 - 👨🏻‍💻 My favourite coding fonts/terminal fonts/nerd fonts: Fira Code, SF Mono, JetBrains Mono/JetBrains Nerd Font, Cascadia Code/Caskaydia Cove, Hack and SauceCodePro. All with Ligatures on of course ;)
+
+- About me: I practically grew up on a computer. Been playing video games since I was 3 with a ball mouse on a CRT monitor. (I was around for floppy disks lol) Was obsessed with ALL the Mario games (Super Mario, Super Mario World games, Smash, Mario Kart and Mario Party. I got into gaming from my older brother. I would watch him play things like the original Grand Theft Auto, CS 1.0 with his friends, Diablo II, the Final Fantasy games and WoW. From SNES/SEGA Saturn to N64>GameCube, PS2/3/4, Xbox etc played em' all. I built my first PC when I was ~11/12 before Minecraft Alpha was released so pre-2010. I hit Grandmaster on SC2 as Zerg when I was 13. I feel like most people around me never played things like Counter-Strike and BF2(Battlefield 2) growing up. I wouldn't be surprised if most people my age haven't even heard of Battlefield 2. 
 ## My Bird App 🐦
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lilcxxj)
