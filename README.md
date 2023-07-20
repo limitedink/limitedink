@@ -13,7 +13,19 @@
 
 - 👨🏻‍💻 My favourite coding fonts/terminal fonts/nerd fonts: Fira Code, SF Mono, JetBrains Mono/JetBrains Nerd Font, Cascadia Code/Caskaydia Cove, Hack and SauceCodePro. All with Ligatures on of course ;)
 
-- About me: I practically grew up on a computer. Been playing video games since I was 3 with a ball mouse on a CRT monitor. (I was around for floppy disks lol) Was obsessed with ALL the Mario games (Super Mario, Super Mario World games, Smash, Mario Kart and Mario Party). I got into gaming from my older brother. I would watch him play things like the original Grand Theft Auto, CS 1.0 with his friends, Diablo II, the Final Fantasy games and WoW. From SNES/SEGA Saturn to N64>GameCube, PS2/3/4, Xbox etc played em' all. I built my first PC when I was ~11/12 before Minecraft Alpha was released so pre-2010. I hit Grandmaster on SC2 as Zerg when I was 13. I feel like most people around me never played things like Counter-Strike and BF2(Battlefield 2) growing up. I wouldn't be surprised if most people my age haven't even heard of Battlefield 2. 
+- About me: I am a tech enthusiast who practically grew up on a computer. I've been playing video games since I was 3 years old, starting with a ball mouse and CRT monitor. Those were the days of floppy disks - a true gaming journey through time!
+
+My gaming obsession began with classic titles like Super Mario, Super Mario World games, Smash, Mario Kart, and Mario Party. Thanks to my older brother, I was introduced to a wide range of games, I would watch him play things like the original Grand Theft Auto, CS 1.0 with his friends, Diablo II, the Final Fantasy games and WoW. 
+
+As the gaming industry evolved, so did my interests. I've played on platforms ranging from SNES/SEGA Saturn to N64, GameCube, PS2/3/4, Xbox, and more. Along the way, I built my first PC when I was ~11/12, before the earliest versions of Minecraft Alpha were released way back in 2010.
+
+One of my proudest gaming achievements was reaching Grandmaster on SC2 as Zerg when I was just 13. It was a thrilling experience that fueled my passion for competitive gaming.
+
+I feel fortunate to have experienced games like Counter-Strike, Half-Life 2, Battlefield 2 and WoW during my formative years, as they have left a lasting impact on my gaming preferences. Nowadays, I'm deeply involved in coding and love working on projects related to web development, game dev in Unreal Engine 5 and Mac gaming-related things.
+
+I'm always open to collaborating and contributing to open-source projects. If you're interested in my work or just want to chat about tech and gaming, feel free to reach out to me!
+
+Let's create something incredible together in the world of technology!
 ## My Bird App 🐦
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lilcxxj)
