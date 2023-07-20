@@ -17,13 +17,13 @@
 
 >My gaming obsession began with classic titles like Super Mario, Super Mario World games, Smash, Mario Kart, and Mario Party. Thanks to my older brother, I was introduced to a wide range of games, I would watch him play things like the original Grand Theft Auto, CS 1.0 with his friends, Diablo II, the Final Fantasy games and WoW. 
 
-As the gaming industry evolved, so did my interests. I've played on platforms ranging from SNES/SEGA Saturn to N64, GameCube, PS2/3/4, Xbox, and more. Along the way, I built my first PC when I was ~11/12, before the earliest versions of Minecraft Alpha were released way back in 2010.
+>As the gaming industry evolved, so did my interests. I've played on platforms ranging from SNES/SEGA Saturn to N64, GameCube, PS2/3/4, Xbox, and more. Along the way, I built my first PC when I was ~11/12, before the earliest versions of Minecraft Alpha were released way back in 2010.
 
-One of my proudest gaming achievements was reaching Grandmaster on SC2 as Zerg when I was just 13. It was a thrilling experience that fueled my passion for competitive gaming.
+>One of my proudest gaming achievements was reaching Grandmaster on SC2 as Zerg when I was just 13. It was a thrilling experience that fueled my passion for competitive gaming.
 
-I feel fortunate to have experienced games like Counter-Strike, Half-Life 2, Battlefield 2 and WoW during my formative years, as they have left a lasting impact on my gaming preferences. Nowadays, I'm deeply involved in coding and love working on projects related to web development, game dev in Unreal Engine 5 and Mac gaming-related things.
+>I feel fortunate to have experienced games like Counter-Strike, Half-Life 2, Battlefield 2 and WoW during my formative years, as they have left a lasting impact on my gaming preferences. Nowadays, I'm deeply involved in coding and love working on projects related to web development, game dev in Unreal Engine 5 and Mac gaming-related things.
 
-I'm always open to collaborating and contributing to open-source projects. If you're interested in my work or just want to chat about tech and gaming, feel free to reach out to me!
+>I'm always open to collaborating and contributing to open-source projects. If you're interested in my work or just want to chat about tech and gaming, feel free to reach out to me!
 
 Let's create something incredible together in the world of technology!
 ## My Bird App 🐦
