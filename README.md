@@ -15,7 +15,7 @@
 
 - About me: I am a tech enthusiast who practically grew up on a computer. I've been playing video games since I was 3 years old, starting with a ball mouse and CRT monitor. Those were the days of floppy disks - a true gaming journey through time!
 
->My gaming obsession began with classic titles like Super Mario, Super Mario World games, Smash, Mario Kart, and Mario Party. Thanks to my older brother, I was introduced to a wide range of games, I would watch him play things like the original Grand Theft Auto, CS 1.0 with his friends, Diablo II, the Final Fantasy games and WoW. 
+>My gaming obsession began with classic titles like Super Mario, Super Mario World games, Smash, Mario Kart, and Mario Party. Thanks to my older brother, I was introduced to a wide range of games, I would watch him play things like the original Grand Theft Auto, CS 1.0 with his friends, Diablo II, the Final Fantasy games, Street Fighter and WoW. 
 
 >As the gaming industry evolved, so did my interests. I've played on platforms ranging from SNES/SEGA Saturn to N64, GameCube, PS2/3/4, Xbox, and more. Along the way, I built my first PC when I was ~11 around 2009, before the earliest versions of Minecraft Alpha were released way back in 2010.
 
