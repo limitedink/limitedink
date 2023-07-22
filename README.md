@@ -9,7 +9,7 @@
 -->
 
 - 🔭 I’m currently working on [The Odin Project](https://theodinproject.com) (Full-Stack JavaScript Path)
-- 🌱 I’m currently learning **C++, JS/TS, HTML/CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
+- 🌱 I’m currently learning **C++ & Unreal Engine 5, JS/TS, HTML/CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
 
 - 👨🏻‍💻 My favourite coding fonts/terminal fonts/nerd fonts: Fira Code, SF Mono, JetBrains Mono/JetBrains Nerd Font, Cascadia Code/Caskaydia Cove, Hack and SauceCodePro. All with Ligatures on of course ;)
 
