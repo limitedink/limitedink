@@ -13,7 +13,8 @@
 
 - 👨🏻‍💻 My favourite coding fonts/terminal fonts/nerd fonts: Fira Code, SF Mono, JetBrains Mono/JetBrains Nerd Font, Cascadia Code/Caskaydia Cove, Hack and SauceCodePro. All with Ligatures on of course ;)
 
-- About me: I am a tech enthusiast who practically grew up on a computer. I've been playing video games since I was 3 years old, starting with a ball mouse and CRT monitor. Those were the days of floppy disks - a true gaming journey through time!
+##About me: 
+I am a tech enthusiast who practically grew up on a computer. I've been playing video games since I was 3 years old, starting with a ball mouse and CRT monitor. Those were the days of floppy disks - a true gaming journey through time!
 
 >My gaming obsession began with classic titles like Super Mario, Super Mario World games, Smash, Mario Kart, and Mario Party. Thanks to my older brother, I was introduced to a wide range of games, I would watch him play things like the original Grand Theft Auto, CS 1.0 with his friends, Diablo II, Doom 3, the Final Fantasy games, Street Fighter/Mortal Kombat and WoW. 
 
