@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm CJ</h1>
-<h3 align="center">A young 25-year-old passionate developer from Melbourne, Australia!</h3>
+<h3 align="center">A forward-thinking developer from Melbourne, Australia, bringing a fresh perspective at 25.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limitedink&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="limitedink" /> </p>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/limitedink?tab=repositories)
+- 👨‍💻 Check out my GitHub Projects [here](https://github.com/limitedink?tab=repositories)
 <!--
 **limitedink/limitedink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [The Odin Project](https://theodinproject.com) (Full-Stack JavaScript Path)
-- 🌱 I’m currently learning **C++ & Unreal Engine 5, JS/TS, HTML/CSS, MERN Stack (MongoDB, Express.JS, React, Node.JS)**
+- 🔭 Currently immersed in [The Odin Project](https://theodinproject.com) conquering the Full-Stack JavaScript Path.
+- 🌱 Learning **C++ & Unreal Engine 5, JS/TS, HTML/CSS**, and diving deep into the MERN Stack (MongoDB, Express.JS, React, Node.JS)**
 
 - 👨🏻‍💻 My favourite coding fonts/terminal fonts/nerd fonts: Fira Code, SF Mono, JetBrains Mono/JetBrains Nerd Font, Cascadia Code/Caskaydia Cove, Hack and SauceCodePro. All with Ligatures on of course ;)
 
