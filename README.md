@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋 I’m CJ</h1>
-<h3 align="center">Backend-leaning dev in Melbourne. I build reliable APIs, tidy data layers, and fun systems. UE5 on the side.</h3>
+<h3 align="center">Backend-focused dev in Melbourne. Go & Python for services, UE5 on the side.</h3>
 
 <p align="center">
-  <a href="https://github.com/limitedink?tab=repositories">🧪 Projects</a> •
-  <a href="#now">🔭 Now</a> •
-  <a href="#tech">🧰 Tech</a> •
-  <a href="#contact">📫 Contact</a>
+  <a href="https://github.com/limitedink?tab=repositories">Projects</a> ·
+  <a href="#now">Now</a> ·
+  <a href="#about-me">About</a> ·
+  <a href="#tech">Tech</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
 <p align="center">
@@ -15,62 +16,92 @@
 ---
 
 ## <span id="now">What I am focused on</span>
-- Working through the <a href="https://www.boot.dev">Boot dev</a> backend path
-- Building services in **Go** and **Python**
-- Practicing **Postgres**, **Redis**, **Docker**, CI, and observability
-- Shipping small tools and APIs for the web
-- Game dev experiments in **UE5 C++** when I want to scratch the gameplay itch
+- Working through the <a href="https://www.boot.dev">Boot.dev</a> backend path  
+- Building services in **Go** and **Python** with Postgres and Redis  
+- Practicing Docker, CI/CD, logging and observability  
+- Game dev experiments in **Unreal Engine 5 (C++)** on the side  
 
-## Highlights
-- Strong bias for clear modules, sensible logging, and tests
-- Comfortable moving between data modeling, HTTP, and CLI utilities
-- Gamer brain for systems and balance that carries into software decisions
+---
 
-## Selected work
-I rotate pinned repos on my profile. Themes you will see:
-- REST and gRPC services in Go or Python
-- Postgres first, Redis for caching or queues
-- Fast feedback loops with Docker Compose and GitHub Actions
-<!-- Add direct repo links here when ready, each with one punchy impact line -->
+## What I’m like to work with
+- I like small PRs, clear modules, meaningful logs, and tests that actually matter  
+- Enjoy shaping data models and building ergonomic APIs/CLIs  
+- Gamer brain for systems and balance — I treat software the same way  
 
-## About me
-I grew up on PCs and consoles, built my first rig young, and learned to iterate fast. Started in C++ to prototype tiny tools, then grabbed JavaScript to ship interactive stuff, and now I live mostly in backend land. I still tinker with UE5 because gameplay systems are fun.
+---
 
-<details>
-  <summary>Fonts, toys, and origin story</summary>
-  • I like Fira Code, JetBrains Mono, Cascadia Code, Hack, SauceCodePro with ligatures on  
-  • Learned memory basics early with C++ which made other stacks click  
-  • Still theorycraft builds and optimize workflows for fun
-</details>
+## Selected Work
+Pinned repos on my profile showcase:
+- REST/gRPC services in Go or Python  
+- Postgres-backed apps with caching layers  
+- CI/CD and containerized dev loops with Docker Compose & GitHub Actions  
+<!-- Add repo links here with punchy one-liners when ready -->
 
-## <span id="tech">Tech I reach for</span>
-**Core**
-- Languages: **Go**, **Python**, **TypeScript**
-- Web: **HTTP**, **REST**, **gRPC**, **WebSockets**
-- Data: **Postgres**, **Redis**, **SQLite**
-- Infra: **Docker**, **Docker Compose**, **Linux**, **GitHub Actions**
-- Cloud: **AWS**, **GCP** basics
-- Game dev: **UE5 C++**, plus a little **Unity C#** history
+---
+
+## <span id="about-me">About Me</span>
+I grew up on PCs and consoles, built my first rig young, and learned to iterate fast. Competitive games (hit Grandmaster in SC2 at 13 as Zerg 🐜) baked discipline and iteration into me. I started in C++ making tiny tools, picked up JavaScript to ship fast, and now I live mostly in backend land. Still tinker with UE5 because gameplay systems are fun.  
 
 <details>
-  <summary>Expanded toolbox badges</summary>
+  <summary>📖 Longer story</summary>
+  I started gaming in the CRT + floppy disk era. Classics like Mario, Smash, CS, Diablo II, Street Fighter, WoW shaped my taste. Built my first PC at ~11 before Minecraft Alpha dropped in 2010.  
 
-<!-- Keep the badge wall tucked away for readability. Prune as your stack changes. -->
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  Learned memory and resource basics with C++ early, which made other stacks click.  
+  JavaScript gave me speed, Go and Python give me reliability.  
+
+  I also care about ergonomics: favorite fonts are Fira Code, JetBrains Mono, Cascadia Code, Hack, SauceCodePro (ligatures on, always).
 </details>
+
+<details>
+  <summary>🖱️ Gear + Tech Enthusiasm</summary>
+  Gaming mice I’ve owned/tested: Logitech G PRO Wireless, GPX, G502 Lightspeed, Razer DA V3 Pro, Viper V2 Pro, Zowie FK2, G9X, G303.  
+  Displays: 144 Hz Zowie → 280 Hz VG279QM phase.  
+  Audio: Moondrop Blessing 2 IEMs ($530 well spent).  
+  Also trackballs: Elecom Huge + Logitech M575.  
+
+  Exploring new hardware, tools, and workflows keeps me sharp.
+</details>
+
+---
+
+## <span id="tech">Tech I Reach For</span>
+
+**Core (what I use now)**  
+- Languages: **Go**, **Python**, **TypeScript**  
+- Web: **REST**, **gRPC**, **WebSockets**  
+- Data: **Postgres**, **Redis**, **SQLite**  
+- Infra: **Docker**, **Linux**, **GitHub Actions**, CI/CD  
+- Game dev: **Unreal Engine 5 (C++)**, some Unity (C#) history  
+
+<details>
+  <summary>⚡ Expanded Toolbox (click to expand)</summary>
+
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+  ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+  <!-- …plus all your other shields -->
+</details>
+
+---
+
+## Off Duty
+Currently playing: **OSRS**, **Melvor Idle**, **Factorio**, **Warframe**, **Elden Ring Nightreign**, plus **Path of Exile 2** and **Diablo 4** here and there.  
+
+---
 
 ## Stats
 <p>
@@ -82,15 +113,12 @@ I grew up on PCs and consoles, built my first rig young, and learned to iterate 
   </a>
 </p>
 
-## Off duty
-Currently playing a rotation of **OSRS**, **Melvor Idle**, **Factorio**, **Warframe**, **Elden Ring Nightreign**, plus **PoE 2** and **Diablo 4** here and there.
-
 ---
 
 ## <span id="contact">Contact</span>
 <p>
-  <a href="mailto:santiagochristopherjames1@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/christopher-james-santiago-limitedink/">LinkedIn</a> •
-  <a href="https://twitter.com/lilcxxj">Twitter</a> •
-  Discord: <code>lilceej</code>
+  <a href="mailto:santiagochristopherjames1@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/christopher-james-santiago-limitedink/">LinkedIn</a> ·
+  <a href="https://twitter.com/lilcxxj">Twitter</a> ·
+  Discord: <code>cj#2967</code>
 </p>
