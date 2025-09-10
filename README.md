@@ -24,7 +24,7 @@
 ---
 
 ## What I’m like to work with
-- I like small PRs, clear modules, meaningful logs, and tests that actually matter  
+- Small PRs, clear modules, meaningful logs, and tests that matter  
 - Enjoy shaping data models and building ergonomic APIs/CLIs  
 - Gamer brain for systems and balance — I treat software the same way  
 
@@ -68,10 +68,19 @@ I grew up on PCs and consoles, built my first rig young, and learned to iterate 
 
 **Core (what I use now)**  
 - Languages: **Go**, **Python**, **TypeScript**  
-- Web: **REST**, **gRPC**, **WebSockets**  
+- Web: **REST**, **gRPC**, **WebSockets**, **OpenAPI/Swagger**  
+- Auth & Security: **JWT**, **OAuth 2.0**, **bcrypt/Argon2**  
 - Data: **Postgres**, **Redis**, **SQLite**  
-- Infra: **Docker**, **Linux**, **GitHub Actions**, CI/CD  
+- Caching & Queues: **Redis**, **RabbitMQ/Kafka**  
+- Infra & Deployment: **Docker**, **Kubernetes**, **Linux**, **GitHub Actions**  
+- Monitoring & Observability: **Prometheus**, **Grafana**, **OpenTelemetry**  
+- Testing: **Pytest**, **Go test/Testify**, **Jest (for JS)**  
 - Game dev: **Unreal Engine 5 (C++)**, some Unity (C#) history  
+
+**OS Experience**  
+- 🪟 Windows (comfortable, daily use in enterprise/dev environments)  
+- 🍏 macOS (MacBook Pro as main machine)  
+- 🐧 Ubuntu (via WSL2, previously dual boot)  
 
 <details>
   <summary>⚡ Expanded Toolbox (click to expand)</summary>
@@ -85,7 +94,6 @@ I grew up on PCs and consoles, built my first rig young, and learned to iterate 
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
