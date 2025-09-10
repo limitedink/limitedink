@@ -128,5 +128,5 @@ Currently playing: **OSRS**, **Melvor Idle**, **Factorio**, **Warframe**, **Elde
   <a href="mailto:santiagochristopherjames1@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/christopher-james-santiago-limitedink/">LinkedIn</a> ·
   <a href="https://twitter.com/lilcxxj">Twitter</a> ·
-  Discord: <code>cj#2967</code>
+  Discord: <code>lilceej</code>
 </p>
