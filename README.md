@@ -16,7 +16,7 @@
 ---
 
 ## <span id="now">What I am focused on</span>
-- Working through the <a href="https://www.boot.dev">Boot.dev</a> backend path
+- Working through the <a href="https://www.boot.dev/u/limitedink">Boot.dev</a> backend path
   <p align="center">
   <img src="https://api.boot.dev/v1/users/public/c5493f7f-d4a4-4c53-a026-4d60da616fb8/thumbnail" >
 </p>
