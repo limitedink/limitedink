@@ -20,6 +20,7 @@
   <p align="center">
   <img src="https://api.boot.dev/v1/users/public/c5493f7f-d4a4-4c53-a026-4d60da616fb8/thumbnail" >
 </p>
+
 - Building services in **Go** and **Python** with Postgres and Redis  
 - Practicing Docker, CI/CD, logging and observability  
 - Game dev experiments in **Unreal Engine 5 (C++)** on the side  
