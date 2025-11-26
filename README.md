@@ -112,7 +112,7 @@ I grew up on PCs and consoles, built my first rig young, and learned to iterate 
 
 ## Off Duty
 Currently playing: 
-**Silksong**, **Hades 2**, **Ball X Pit**
+**Silksong**, **Hades 2**, **Ball X Pit**,
 **OSRS**, **Melvor Idle**, **Factorio**, **Warframe**, **Elden Ring Nightreign**, plus **Path of Exile 2** and **Diablo 4** here and there.  
 
 ---
