@@ -1,138 +1,150 @@
-<h1 align="center">Hi 👋 I’m CJ</h1>
-<h3 align="center">Backend-focused dev in Melbourne. Go & Python for services, UE5 on the side.</h3>
+<h1 align="center">Hi, I'm CJ 👋</h1>
+<h3 align="center">Software developer in Melbourne building thoughtful systems, tools, and games.</h3>
 
 <p align="center">
+  Currently creating <strong><a href="https://github.com/limitedink/MOMENTUM">Momentum</a></strong>, a persistent multiplayer taskbar RPG built around always progressing together.
+</p>
+
+<p align="center">
+  <a href="https://limitedink.github.io/MOMENTUM/"><strong>Play Momentum</strong></a> ·
   <a href="https://github.com/limitedink?tab=repositories">Projects</a> ·
-  <a href="#now">Now</a> ·
-  <a href="#about-me">About</a> ·
-  <a href="#tech">Tech</a> ·
-  <a href="#contact">Contact</a>
+  <a href="https://www.linkedin.com/in/christopher-james-santiago-limitedink/">LinkedIn</a> ·
+  <a href="mailto:santiagochristopherjames1@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=limitedink&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="limitedink" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
 </p>
 
----
-
-## <span id="now">What I am focused on</span>
-- Working through the <a href="https://www.boot.dev/u/limitedink">Boot.dev</a> backend path
-  <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/c5493f7f-d4a4-4c53-a026-4d60da616fb8/thumbnail" >
-</p>
-
-- Building services in **Go** and **Python** with Postgres and Redis  
-- Practicing Docker, CI/CD, logging and observability  
-- Game dev experiments in **Unreal Engine 5 (C++)** on the side  
+> I care about understanding how things work, designing systems that fit together cleanly, and turning ambitious ideas into working software one clear step at a time.
 
 ---
 
-## What I’m like to work with
-- Small PRs, clear modules, meaningful logs, and tests that matter  
-- Enjoy shaping data models and building ergonomic APIs/CLIs  
-- Gamer brain for systems and balance — I treat software the same way  
+## What I'm building
 
----
+### 🎮 [Momentum](https://github.com/limitedink/MOMENTUM)
 
-## Selected Work
-Pinned repos on my profile showcase:
-- REST/gRPC services in Go or Python  
-- Postgres-backed apps with caching layers  
-- CI/CD and containerized dev loops with Docker Compose & GitHub Actions  
-<!-- Add repo links here with punchy one-liners when ready -->
+**Momentum is the multiplayer taskbar RPG I wish existed.** It is designed to run quietly while players work, study, browse, or watch videos, while their characters continue training, gathering, crafting, fighting, and progressing alongside a party.
 
----
+What began as an idle and active RPG prototype has grown into my first substantial end-to-end product:
 
-## <span id="about-me">About Me</span>
-I grew up on PCs and consoles, built my first rig young, and learned to iterate fast. Competitive games (hit Grandmaster in SC2 at 13 as Zerg 🐜) baked discipline and iteration into me. I started in C++ making tiny tools, picked up JavaScript to ship fast, and now I live mostly in backend land. Still tinker with UE5 because gameplay systems are fun.  
+- Built six connected skills, offline progression, upgrades, specializations, crafting, equipment, inventory, and loadouts
+- Created active arena combat, progressive boss tiers, combat talents, run records, and an active Fishing minigame
+- Designed a local asynchronous party expedition with shared activities, commands, snapshots, rewards, and reconnect behaviour
+- Refactored the multiplayer client around authoritative snapshots, transport boundaries, session state, revision ordering, and pending command correlation
+- Added a **Tauri 2** desktop shell for the future taskbar-native release
+- Built a **TypeScript, Fastify, WebSocket, and PostgreSQL** backend foundation
+- Implemented versioned SQL migrations, persistent players and sessions, hashed development tokens, bearer authentication, readiness checks, and PostgreSQL integration tests
 
-<details>
-  <summary>📖 Longer story</summary>
-  I started gaming in the CRT + floppy disk era. Classics like Mario, Smash, CS, Diablo II, Street Fighter, WoW shaped my taste. Built my first PC at ~11 before Minecraft Alpha dropped in 2010.  
+The public prototype is playable now. Online multiplayer is still being built, but the client and backend foundations are being developed deliberately so the final social systems can be meaningful rather than superficial.
 
-  Learned memory and resource basics with C++ early, which made other stacks click.  
-  JavaScript gave me speed, Go and Python give me reliability.  
-
-  I also care about ergonomics: favorite fonts are Fira Code, JetBrains Mono, Cascadia Code, Hack, SauceCodePro (ligatures on, always).
-</details>
-
-<details>
-  <summary>🖱️ Gear + Tech Enthusiasm</summary>
-  Gaming mice I’ve owned/tested: Logitech G PRO Wireless, GPX, G502 Lightspeed, Razer DA V3 Pro, Viper V2 Pro, Zowie FK2, G9X, G303.  
-  Displays: 144 Hz Zowie → 280 Hz VG279QM phase.  
-  Audio: Moondrop Blessing 2 IEMs ($530 well spent).  
-  Also trackballs: Elecom Huge + Logitech M575.  
-
-  Exploring new hardware, tools, and workflows keeps me sharp.
-</details>
-
----
-
-## <span id="tech">Tech I Reach For</span>
-
-**Core (what I use now)**  
-- Languages: **Go**, **Python**, **TypeScript**  
-- Web: **REST**, **gRPC**, **WebSockets**, **OpenAPI/Swagger**  
-- Auth & Security: **JWT**, **OAuth 2.0**, **bcrypt/Argon2**  
-- Data: **Postgres**, **Redis**, **SQLite**  
-- Caching & Queues: **Redis**, **RabbitMQ/Kafka**  
-- Infra & Deployment: **Docker**, **Kubernetes**, **Linux**, **GitHub Actions**  
-- Monitoring & Observability: **Prometheus**, **Grafana**, **OpenTelemetry**  
-- Testing: **Pytest**, **Go test/Testify**, **Jest (for JS)**  
-- Game dev: **Unreal Engine 5 (C++)**, some Unity (C#) history  
-
-**OS Experience**  
-- 🪟 Windows (comfortable, daily use in enterprise/dev environments)  
-- 🍏 macOS (MacBook Pro as main machine)  
-- 🐧 Ubuntu (via WSL2, previously dual boot)  
-
-<details>
-  <summary>⚡ Expanded Toolbox (click to expand)</summary>
-
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-  ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-  ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-  <!-- …plus all your other shields -->
-</details>
-
----
-
-## Off Duty
-Currently playing: 
-**Silksong**, **Hades 2**, **Ball X Pit**,
-**OSRS**, **Melvor Idle**, **Factorio**, **Warframe**, **Elden Ring Nightreign**, plus **Path of Exile 2** and **Diablo 4** here and there.  
-
----
-
-## Stats
 <p>
-  <a href="https://github.com/limitedink">
-    <img src="https://github-readme-stats.vercel.app/api?username=limitedink&show_icons=true&count_private=true&theme=midnight-purple" alt="CJ GitHub stats" height="165" />
-  </a>
-  <a href="https://github.com/limitedink">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitedink&langs_count=7&layout=compact&theme=midnight-purple" alt="Top languages" height="165" />
+  <a href="https://limitedink.github.io/MOMENTUM/"><strong>▶ Play the prototype</strong></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/limitedink/MOMENTUM"><strong>View the repository</strong></a>
+</p>
+
+---
+
+## Selected projects
+
+These projects mark different stages of my growth as a developer:
+
+| Project | What I built |
+| --- | --- |
+| **[Momentum](https://github.com/limitedink/MOMENTUM)** | A persistent idle and active RPG with a Tauri desktop shell, multiplayer-ready client architecture, Fastify backend, authentication, and PostgreSQL persistence. |
+| **[Python Static Site Generator](https://github.com/limitedink/python-static-site-generator)** | A dependency-free Markdown-to-HTML generator with recursive page building, templates, asset copying, configurable base paths, and GitHub Pages deployment. [Live demo](https://limitedink.github.io/python-static-site-generator/) |
+| **[Asteroids in Pygame](https://github.com/limitedink/asteroids-pygame)** | A real-time arcade game using object-oriented architecture, vector movement, projectile systems, collision detection, procedural spawning, and multi-stage asteroid splitting. |
+| **[Colemak Mod-DH for ChromeOS](https://github.com/limitedink/Colemak-Mod-DH-Layout-for-Chromebooks-ChromeOS)** | A ChromeOS input-method extension that brings the Colemak Mod-DH keyboard layout to Chromebooks, including the on-screen keyboard. |
+| **[TypeScript React Calculator](https://github.com/limitedink/TS-React-TailwindCSS-Calculator)** | A React and TypeScript calculator supporting arithmetic, modulus, powers, percentages, sign changes, decimal handling, and a responsive interface. [Live demo](https://limitedink.github.io/TS-React-TailwindCSS-Calculator/) |
+
+---
+
+## How I approach software
+
+- **Start with the real problem.** I want to understand what a system is meant to accomplish before choosing patterns or tools.
+- **Build in clear boundaries.** Small modules, explicit ownership, and understandable data flow make future complexity easier to handle.
+- **Make progress visible.** I prefer small, meaningful iterations that leave the project better than I found it.
+- **Test what matters.** Tests should protect behaviour and important boundaries, not exist only to increase a number.
+- **Care about the experience.** Performance, reliability, game feel, interface clarity, and maintainability are all parts of the same product.
+- **Keep learning honestly.** I do not need to pretend I know everything. I am good at digging into unfamiliar systems, asking why, and steadily turning confusion into understanding.
+
+---
+
+## About me
+
+I have been drawn to computers for as long as I can remember. I built my first PC at around 11, started programming through C++ and small tools, then expanded into JavaScript, TypeScript, Python, Go, frontend development, backend systems, desktop applications, and game development.
+
+At 13, I reached **Grandmaster in StarCraft II as Zerg**. More than the rank itself, I value what the process taught me: practise deliberately, review mistakes honestly, adapt quickly, and keep going when improvement is not immediately visible. That mindset still shapes the way I learn and build.
+
+Today, most of my development energy goes into Momentum. It brings together the things I enjoy most: progression systems, game design, architecture, databases, networking, interfaces, and the challenge of turning a large idea into something real.
+
+I am still early in my career, but I am not standing still. I have gone from small learning projects to designing and implementing a game client, desktop shell, multiplayer architecture, backend authentication, database migrations, persistent sessions, and tested PostgreSQL integration. **I am proud of that progress, and I am excited about how much further I can take it.**
+
+---
+
+## Tools and technologies
+
+### Using in current projects
+
+- **Languages:** TypeScript, JavaScript, Python, Go
+- **Backend:** Node.js, Fastify, REST APIs, WebSockets, authentication and session systems
+- **Data:** PostgreSQL, SQL migrations, SQLite
+- **Frontend and desktop:** HTML, SCSS, Canvas API, Vite, Tauri 2
+- **Testing:** Vitest, integration testing, testable architecture and dependency boundaries
+- **Workflow:** Git, GitHub, npm, Linux, macOS
+
+### Familiar with and continuing to develop
+
+- React, Tailwind CSS, Express, Redis, Docker, GitHub Actions
+- C++, C#, Godot, Unreal Engine 5, Unity
+- Data structures, algorithms, API design, caching, observability, and deployment fundamentals
+
+Tools are not the goal by themselves. I try to choose technology that helps me understand the problem, ship a useful result, and leave behind code I can continue improving.
+
+---
+
+## Learning
+
+I use structured learning when it is useful, including the <a href="https://www.boot.dev/u/limitedink">Boot.dev backend path</a>, but I learn best by applying concepts directly inside real projects.
+
+<p align="center">
+  <a href="https://www.boot.dev/u/limitedink">
+    <img src="https://api.boot.dev/v1/users/public/c5493f7f-d4a4-4c53-a026-4d60da616fb8/thumbnail" alt="CJ's Boot.dev profile" />
   </a>
 </p>
 
 ---
 
-## <span id="contact">Contact</span>
+## Beyond code
+
+I love games with deep progression and strong systemic design, especially RPGs, strategy games, MMOs, and games that reward mastery over time. I also enjoy drumming, strength training, computer hardware, audio gear, ergonomic keyboard layouts, and spending far too long comparing mice, displays, and programming fonts.
+
+I use **Colemak Mod-DH**, care more than most people about comfortable tools, and believe small improvements compound whether I am learning a song, refining a game system, or cleaning up an API.
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/limitedink">
+    <img src="https://github-readme-stats.vercel.app/api?username=limitedink&show_icons=true&count_private=true&theme=midnight-purple" alt="CJ's GitHub stats" height="165" />
+  </a>
+  <a href="https://github.com/limitedink">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitedink&langs_count=7&layout=compact&theme=midnight-purple" alt="CJ's top languages" height="165" />
+  </a>
+</p>
+
+---
+
+## Contact
+
 <p>
   <a href="mailto:santiagochristopherjames1@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/christopher-james-santiago-limitedink/">LinkedIn</a> ·
-  <a href="https://twitter.com/lilcxxj">Twitter</a> ·
   Discord: <code>lilceej</code>
 </p>
