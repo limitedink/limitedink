@@ -130,14 +130,15 @@ I use **Colemak Mod-DH**, care more than most people about comfortable tools, an
 
 ## GitHub stats
 
-<p align="center">
+<p>
   <a href="https://github.com/limitedink">
-    <img src="https://github-readme-stats.vercel.app/api?username=limitedink&show_icons=true&count_private=true&theme=midnight-purple" alt="CJ's GitHub stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=limitedink&show_icons=true&count_private=true&theme=midnight-purple" alt="CJ GitHub stats" height="165" />
   </a>
   <a href="https://github.com/limitedink">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitedink&langs_count=7&layout=compact&theme=midnight-purple" alt="CJ's top languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitedink&langs_count=7&layout=compact&theme=midnight-purple" alt="Top languages" height="165" />
   </a>
 </p>
+
 
 ---
 
