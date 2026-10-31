@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://limitedink.github.io/MOMENTUM/"><strong>Play Momentum</strong></a> ·
   <a href="https://github.com/limitedink?tab=repositories">Projects</a> ·
   <a href="https://www.linkedin.com/in/christopher-james-santiago-limitedink/">LinkedIn</a> ·
   <a href="mailto:santiagochristopherjames1@gmail.com">Email</a>
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
 </p>
 
 > I care about understanding how things work, designing systems that fit together cleanly, and turning ambitious ideas into working software one clear step at a time.
@@ -28,24 +26,22 @@
 
 ### 🎮 [Momentum](https://github.com/limitedink/MOMENTUM)
 
-**Momentum is the multiplayer taskbar RPG I wish existed.** It is designed to run quietly while players work, study, browse, or watch videos, while their characters continue training, gathering, crafting, fighting, and progressing alongside a party.
+**Momentum is the multiplayer taskbar RPG I wish existed.** It is designed to run quietly while players work, study, browse, or watch videos, while their characters keep training, gathering, crafting, fighting, and progressing alongside a party. It draws on the long-term skilling of Old School RuneScape, the social adventuring of World of Warcraft, and the loadout depth of Warframe.
 
-What began as an idle and active RPG prototype has grown into my first substantial end-to-end product:
+What began as an idle and active RPG prototype has grown into my first substantial end-to-end product, now heading for Steam on Windows, macOS, Linux, and Steam Deck:
 
-- Built six connected skills, offline progression, upgrades, specializations, crafting, equipment, inventory, and loadouts
-- Created active arena combat, progressive boss tiers, combat talents, run records, and an active Fishing minigame
-- Designed a local asynchronous party expedition with shared activities, commands, snapshots, rewards, and reconnect behaviour
+- Built 18 trainable skills with parallel training, a Honing slot, upgrades, specialisations, crafting, equipment, inventory, and loadouts, plus separate Combat and Foundation progression
+- Created Frontier, an always-on battle with scrolling parallax backdrops, alongside Arena combat, boss tiers, combat talents, and an active Fishing minigame
+- Designed party Expeditions and co-op Sorties with shared activities, commands, snapshots, rewards, and reconnect behaviour
 - Refactored the multiplayer client around authoritative snapshots, transport boundaries, session state, revision ordering, and pending command correlation
-- Added a **Tauri 2** desktop shell for the future taskbar-native release
-- Built a **TypeScript, Fastify, WebSocket, and PostgreSQL** backend foundation
-- Implemented versioned SQL migrations, persistent players and sessions, hashed development tokens, bearer authentication, readiness checks, and PostgreSQL integration tests
+- Built the desktop shell on **Electron** for a consistent renderer on every platform, with window, dock, and tray modes, a tray widget showing live XP drops, and OS notifications
+- Added dockable panels that pop out into movable windows, and rebindable keybindings based on physical key position, so they work the same on QWERTY, Colemak, or Graphite
+- Built a **TypeScript, Fastify, WebSocket, and PostgreSQL** backend with versioned SQL migrations, persistent players and sessions, bearer authentication, readiness checks, and PostgreSQL integration tests
 
-The public prototype is playable now. Online multiplayer is still being built, but the client and backend foundations are being developed deliberately so the final social systems can be meaningful rather than superficial.
+Online multiplayer is still being built, but the client and backend foundations are being developed deliberately so the final social systems can be meaningful rather than superficial.
 
 <p>
-  <a href="https://limitedink.github.io/MOMENTUM/"><strong>▶ Play the prototype</strong></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/limitedink/MOMENTUM"><strong>View the repository</strong></a>
+  <a href="https://github.com/limitedink/MOMENTUM"><strong>▶ Follow development</strong></a>
 </p>
 
 ---
@@ -56,7 +52,7 @@ These projects mark different stages of my growth as a developer:
 
 | Project | What I built |
 | --- | --- |
-| **[Momentum](https://github.com/limitedink/MOMENTUM)** | A persistent idle and active RPG with a Tauri desktop shell, multiplayer-ready client architecture, Fastify backend, authentication, and PostgreSQL persistence. |
+| **[Momentum](https://github.com/limitedink/MOMENTUM)** | A persistent idle and active RPG with an Electron desktop shell, multiplayer-ready client architecture, Fastify backend, authentication, and PostgreSQL persistence. |
 | **[Python Static Site Generator](https://github.com/limitedink/python-static-site-generator)** | A dependency-free Markdown-to-HTML generator with recursive page building, templates, asset copying, configurable base paths, and GitHub Pages deployment. [Live demo](https://limitedink.github.io/python-static-site-generator/) |
 | **[Asteroids in Pygame](https://github.com/limitedink/asteroids-pygame)** | A real-time arcade game using object-oriented architecture, vector movement, projectile systems, collision detection, procedural spawning, and multi-stage asteroid splitting. |
 | **[Colemak Mod-DH for ChromeOS](https://github.com/limitedink/Colemak-Mod-DH-Layout-for-Chromebooks-ChromeOS)** | A ChromeOS input-method extension that brings the Colemak Mod-DH keyboard layout to Chromebooks, including the on-screen keyboard. |
@@ -94,7 +90,7 @@ I am still early in my career, but I am not standing still. I have gone from sma
 - **Languages:** TypeScript, JavaScript, Python, Go
 - **Backend:** Node.js, Fastify, REST APIs, WebSockets, authentication and session systems
 - **Data:** PostgreSQL, SQL migrations, SQLite
-- **Frontend and desktop:** HTML, SCSS, Canvas API, Vite, Tauri 2
+- **Frontend and desktop:** HTML, SCSS, Canvas API, Vite, Electron
 - **Testing:** Vitest, integration testing, testable architecture and dependency boundaries
 - **Workflow:** Git, GitHub, npm, Linux, macOS
 
