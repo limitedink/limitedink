@@ -84,7 +84,7 @@ I have gone from small learning projects to designing and implementing a game cl
 
 ## Beyond code
 
-I practically grew up on a computer. I have been gaming since I was 3, starting with a ball mouse on a CRT monitor back in the floppy disk days. I was obsessed with every Mario game (Super Mario World, Smash, Mario Kart, Mario Party), and my older brother got me into the rest: I would watch him play the original Grand Theft Auto, CS 1.0 with his mates, Diablo II, Final Fantasy, Street Fighter, Mortal Kombat and WoW. From SNES and SEGA Saturn through N64, GameCube, PS2/3/4 and Xbox, I played them all. Counter-Strike, Half-Life 2, Battlefield 2 and WoW shaped my taste more than anything.
+I practically grew up on a computer. I have been gaming since I was 3, starting with a ball mouse on a CRT monitor back in the floppy disk days. I was obsessed with every Mario game (Super Mario World, Smash, Mario Kart, Mario Party), and my older brother got me into the rest: I would watch him play the original Grand Theft Auto, CS 1.0 with his mates, Diablo II, Final Fantasy, Street Fighter, Mortal Kombat and WoW. From SNES and SEGA Saturn through N64, GameCube, PS2/3/4 and Xbox, I played them all. Counter-Strike, Half-Life 2, the Crysis series, Battlefield 2 and WoW shaped my taste more than anything.
 
 These days I love games with deep progression and strong systemic design: RPGs, strategy, MMOs, idle games, and anything that rewards mastery over time.
 
