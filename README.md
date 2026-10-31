@@ -91,12 +91,13 @@ These days I love games with deep progression and strong systemic design: RPGs, 
 I am also a proper gear nerd:
 
 - **Mice:** I have owned or tested the Logitech G PRO Wireless, G PRO X Superlight, G502 Lightspeed, G9X, the original G303 and G Pro, Razer DeathAdder V3 Pro, DeathAdder 3.5G, Viper V2 Pro, the OG SteelSeries Rival and the legendary Zowie FK2. I was an early adopter of Lightspeed wireless.
-- **Trackballs:** Elecom HUGE and Logitech M575.
+- **Trackballs and pointing:** Elecom HUGE, Logitech M575, and a Lenovo TrackPoint keyboard.
 - **Displays:** I jumped on 280Hz early with the ASUS VG279QM, and ran a 24" BenQ Zowie at 144Hz back when 120Hz was the competitive standard.
 - **Audio:** Moondrop Blessing 2 IEMs, money well spent.
+- **My setup:** Arch Linux with Hyprland (Omarchy) and the Ghostty terminal on a Ryzen 7 5800X and RTX 3070 desktop, driving a 32" 4K 144Hz and a vertical 27" 240Hz. On the go it is a 16" MacBook Pro M2 Max with 96 GB of RAM.
 - **Keyboards and fonts:** I type on **Graphite**, and code in Fira Code, JetBrains Mono, Cascadia Code, Hack or SauceCodePro, ligatures always on.
 
-Outside the screen I play drums, train at the gym, and care more than most people about comfortable tools. I believe small improvements compound, whether I am learning a song, refining a game system, or cleaning up an API.
+Outside the screen I play drums and guitar, draw, paint Warhammer 40k, play chess, cook, box, train at the gym, love cars and motorbikes, and watch a lot of anime. I also care more than most people about comfortable tools. I believe small improvements compound, whether I am learning a song, refining a game system, or cleaning up an API.
 
 ---
 
