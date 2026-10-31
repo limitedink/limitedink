@@ -84,9 +84,19 @@ I have gone from small learning projects to designing and implementing a game cl
 
 ## Beyond code
 
-I love games with deep progression and strong systemic design, especially RPGs, strategy games, MMOs, and games that reward mastery over time. I also enjoy drumming, strength training, computer hardware, audio gear, ergonomic keyboard layouts, and spending far too long comparing mice, displays, and programming fonts.
+I practically grew up on a computer. I have been gaming since I was 3, starting with a ball mouse on a CRT monitor back in the floppy disk days. I was obsessed with every Mario game (Super Mario World, Smash, Mario Kart, Mario Party), and my older brother got me into the rest: I would watch him play the original Grand Theft Auto, CS 1.0 with his mates, Diablo II, Final Fantasy, Street Fighter, Mortal Kombat and WoW. From SNES and SEGA Saturn through N64, GameCube, PS2/3/4 and Xbox, I played them all. Counter-Strike, Half-Life 2, Battlefield 2 and WoW shaped my taste more than anything.
 
-I use **Graphite**, care more than most people about comfortable tools, and believe small improvements compound whether I am learning a song, refining a game system, or cleaning up an API.
+These days I love games with deep progression and strong systemic design: RPGs, strategy, MMOs, idle games, and anything that rewards mastery over time.
+
+I am also a proper gear nerd:
+
+- **Mice:** I have owned or tested the Logitech G PRO Wireless, G PRO X Superlight, G502 Lightspeed, G9X, the original G303 and G Pro, Razer DeathAdder V3 Pro, DeathAdder 3.5G, Viper V2 Pro, the OG SteelSeries Rival and the legendary Zowie FK2. I was an early adopter of Lightspeed wireless.
+- **Trackballs:** Elecom HUGE and Logitech M575.
+- **Displays:** I jumped on 280Hz early with the ASUS VG279QM, and ran a 24" BenQ Zowie at 144Hz back when 120Hz was the competitive standard.
+- **Audio:** Moondrop Blessing 2 IEMs, money well spent.
+- **Keyboards and fonts:** I type on **Graphite**, and code in Fira Code, JetBrains Mono, Cascadia Code, Hack or SauceCodePro, ligatures always on.
+
+Outside the screen I play drums, train at the gym, and care more than most people about comfortable tools. I believe small improvements compound, whether I am learning a song, refining a game system, or cleaning up an API.
 
 ---
 
