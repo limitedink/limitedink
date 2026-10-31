@@ -72,13 +72,21 @@ Online multiplayer is in active development. The code is private for now. If you
 
 ## About me
 
-I have loved computers for as long as I can remember. I built my first PC at around 11, started programming with C++ and small tools, and grew into JavaScript, TypeScript, Python, Go, backend systems, desktop apps, and games.
+I have been drawn to computers for as long as I can remember. I built my first PC at around 11, started programming through C++ and small tools, then expanded into JavaScript, TypeScript, Python, Go, frontend development, backend systems, desktop applications, and game development.
 
-At 13 I reached **Grandmaster in StarCraft II as Zerg**. It taught me to practise deliberately, review my mistakes honestly, and keep going when progress is slow. I still build that way.
+At 13, I reached **Grandmaster in StarCraft II as Zerg**. More than the rank itself, I value what the process taught me: practise deliberately, review mistakes honestly, adapt quickly, and keep going when improvement is not immediately visible. That mindset still shapes the way I learn and build.
 
-Now I make games full time as LimitedInk. Momentum brings together everything I enjoy: progression systems, game design, networking, databases, and interfaces.
+Today I make games full time as LimitedInk, and most of my development energy goes into Momentum. It brings together the things I enjoy most: progression systems, game design, architecture, databases, networking, interfaces, and the challenge of turning a large idea into something real.
 
-Outside code I play drums, lift, and spend too long comparing keyboards, mice, and displays. I type on **Graphite**.
+I have gone from small learning projects to designing and implementing a game client, desktop app, multiplayer architecture, backend authentication, database migrations, persistent sessions, and tested PostgreSQL integration. **I am proud of that progress, and I am excited about how much further I can take it.**
+
+---
+
+## Beyond code
+
+I love games with deep progression and strong systemic design, especially RPGs, strategy games, MMOs, and games that reward mastery over time. I also enjoy drumming, strength training, computer hardware, audio gear, ergonomic keyboard layouts, and spending far too long comparing mice, displays, and programming fonts.
+
+I use **Graphite**, care more than most people about comfortable tools, and believe small improvements compound whether I am learning a song, refining a game system, or cleaning up an API.
 
 ---
 
