@@ -97,7 +97,7 @@ I am also a proper gear nerd:
 - **My setup:** Arch Linux with Hyprland (Omarchy) and the Ghostty terminal on a Ryzen 7 5800X and RTX 3070 desktop, driving a 32" 4K 144Hz and a vertical 27" 240Hz. On the go it is a 16" MacBook Pro M2 Max with 96 GB of RAM.
 - **Keyboards and fonts:** I type on **Graphite**, and code in Fira Code, JetBrains Mono, Cascadia Code, Hack or SauceCodePro, ligatures always on.
 
-Outside the screen I play drums and guitar, draw, paint Warhammer 40k, play chess, cook, box, train at the gym, love cars and motorbikes, and watch a lot of anime. I also care more than most people about comfortable tools. I believe small improvements compound, whether I am learning a song, refining a game system, or cleaning up an API.
+Outside the screen I play drums and guitar, draw, paint Warhammer 40k, play chess, cook, box, train at the gym, love cars and motorbikes, watch a lot of anime, and game, obviously. I also care more than most people about comfortable tools. I believe small improvements compound, whether I am learning a song, refining a game system, or cleaning up an API.
 
 ---
 
