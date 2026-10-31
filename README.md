@@ -26,19 +26,18 @@
 
 ### 🎮 [Momentum](https://github.com/limitedink/MOMENTUM)
 
-**Momentum is the multiplayer taskbar RPG I wish existed.** It is designed to run quietly while players work, study, browse, or watch videos, while their characters keep training, gathering, crafting, fighting, and progressing alongside a party. It draws on the long-term skilling of Old School RuneScape, the social adventuring of World of Warcraft, and the loadout depth of Warframe.
+**A multiplayer RPG that lives in your taskbar and keeps progressing while you get on with your day.**
 
-What began as an idle and active RPG prototype has grown into my first substantial end-to-end product, now heading for Steam on Windows, macOS, Linux, and Steam Deck:
+Your character trains, gathers, crafts, and fights alongside a party while you work, study, or watch videos, and you can step in whenever you want to play actively. It draws on the long-term skilling of Old School RuneScape, the social adventuring of World of Warcraft, and the loadout depth of Warframe. I have built it solo since September 2025, across more than 2,900 commits.
 
-- Built 18 trainable skills with parallel training, a Honing slot, upgrades, specialisations, crafting, equipment, inventory, and loadouts, plus separate Combat and Foundation progression
-- Created Frontier, an always-on battle with scrolling parallax backdrops, alongside Arena combat, boss tiers, combat talents, and an active Fishing minigame
-- Designed party Expeditions and co-op Sorties with shared activities, commands, snapshots, rewards, and reconnect behaviour
-- Refactored the multiplayer client around authoritative snapshots, transport boundaries, session state, revision ordering, and pending command correlation
-- Built the desktop shell on **Electron** for a consistent renderer on every platform, with window, dock, and tray modes, a tray widget showing live XP drops, and OS notifications
-- Added dockable panels that pop out into movable windows, and rebindable keybindings based on physical key position, so they work the same on QWERTY, Colemak, or Graphite
-- Built a **TypeScript, Fastify, WebSocket, and PostgreSQL** backend with versioned SQL migrations, persistent players and sessions, bearer authentication, readiness checks, and PostgreSQL integration tests
+- **Designed and built end to end by me:** game design, the game client, the desktop app, the backend, and the database
+- **Real-time multiplayer where the server is in charge:** parties, expeditions, and offline progress run on a TypeScript, Fastify, WebSocket, and PostgreSQL backend, so progress is consistent and hard to cheat
+- **A desktop app for Steam:** built on Electron for Windows, macOS, Linux, and Steam Deck, with window, dock, and tray modes and a tray widget that shows live XP drops
+- **A lot of game to play:** 18 trainable skills, an always-on Frontier battle, Arena combat with boss tiers, party Expeditions, co-op Sorties, crafting, and loadouts
+- **Built for how people actually play:** dockable panels that pop out into movable windows, and keybindings you can remap that follow physical key position, so they work the same on QWERTY, Colemak, or any other layout
+- **Tested as it grows:** hundreds of automated test files covering game rules, the client, and real PostgreSQL integration
 
-Online multiplayer is still being built, but the client and backend foundations are being developed deliberately so the final social systems can be meaningful rather than superficial.
+Online multiplayer is still being finished, with the foundations built carefully first so the social side of the game has real depth.
 
 <p>
   <a href="https://github.com/limitedink/MOMENTUM"><strong>▶ Follow development</strong></a>
